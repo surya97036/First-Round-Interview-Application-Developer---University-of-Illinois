@@ -7,7 +7,7 @@ Python 3.x
 Required libraries: json, datetime, collections
 
 <h3> Setup Instructions </h3>
-Clone the Repository: Clone the GitHub repository that contains the source code and the data file trainings.txt.
+Clone the Repository: Clone the GitHub repository that contains the source code and the data file trainings(correct).txt.
 
 git clone "repository-url"
 
